@@ -6,11 +6,13 @@ local Spawn = TS.import(script, script, "Spawn")
 local Clock = TS.import(script, script, "Clock")
 local Future = TS.import(script, script, "Future")
 local Ratelimit = TS.import(script, script, "Ratelimit")
+local Collection = TS.import(script, script, "Collection")
 return {
 	Bin = Bin,
 	Signal = Signal,
 	Spawn = Spawn,
 	Clock = Clock,
 	Ratelimit = Ratelimit,
+	Collection = Collection,
 	Future = Future,
 }

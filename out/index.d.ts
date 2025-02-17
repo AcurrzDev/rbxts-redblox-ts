@@ -4,4 +4,5 @@ import Spawn from "./Spawn";
 import Clock from "./Clock";
 import Future from "./Future";
 import Ratelimit from "./Ratelimit";
-export { Bin, Signal, Spawn, Clock, Ratelimit, Future };
+import Collection from "./Collection";
+export { Bin, Signal, Spawn, Clock, Ratelimit, Collection, Future };

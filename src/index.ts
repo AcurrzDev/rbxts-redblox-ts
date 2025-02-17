@@ -4,6 +4,7 @@ import Spawn from "./Spawn";
 import Clock from "./Clock";
 import Future from "./Future"
 import Ratelimit from "./Ratelimit";
+import Collection from "./Collection";
 
 export {
     Bin,
@@ -11,5 +12,6 @@ export {
     Spawn,
     Clock,
     Ratelimit,
+    Collection,
     Future
 }
