@@ -1,4 +1,4 @@
-type Future<T extends unknown[] | void | unknown> = {
+export type Future<T extends unknown[] | void | unknown> = {
     ValueList?: unknown[];
     AfterList: ((...args: (T extends unknown[] ? T : [T])) => void)[];
     YieldList: thread[]; 
