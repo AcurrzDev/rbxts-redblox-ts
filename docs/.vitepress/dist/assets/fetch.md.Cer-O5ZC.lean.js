@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as t}from"./chunks/framework.BHrE6nLq.js";const o=JSON.parse('{"title":"Fetch","description":"","frontmatter":{},"headers":[],"relativePath":"fetch.md","filePath":"fetch.md"}'),h={name:"fetch.md"};function k(l,s,p,e,E,d){return n(),a("div",null,s[0]||(s[0]=[t("",13)]))}const g=i(h,[["render",k]]);export{o as __pageData,g as default};

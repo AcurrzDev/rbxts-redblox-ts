@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as n}from"./chunks/framework.BHrE6nLq.js";const c=JSON.parse('{"title":"Ratelimit","description":"","frontmatter":{},"headers":[],"relativePath":"ratelimit.md","filePath":"ratelimit.md"}'),e={name:"ratelimit.md"};function h(l,s,k,p,r,d){return t(),a("div",null,s[0]||(s[0]=[n("",7)]))}const o=i(e,[["render",h]]);export{c as __pageData,o as default};

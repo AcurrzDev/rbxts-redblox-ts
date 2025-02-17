@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as t}from"./chunks/framework.BHrE6nLq.js";const o=JSON.parse('{"title":"Signal","description":"","frontmatter":{},"headers":[],"relativePath":"signal.md","filePath":"signal.md"}'),l={name:"signal.md"};function e(h,s,p,k,d,r){return n(),a("div",null,s[0]||(s[0]=[t("",20)]))}const g=i(l,[["render",e]]);export{o as __pageData,g as default};

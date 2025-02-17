@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as t}from"./chunks/framework.BHrE6nLq.js";const d=JSON.parse('{"title":"Clock","description":"","frontmatter":{},"headers":[],"relativePath":"clock.md","filePath":"clock.md"}'),l={name:"clock.md"};function e(k,s,p,h,c,o){return n(),a("div",null,s[0]||(s[0]=[t("",4)]))}const E=i(l,[["render",e]]);export{d as __pageData,E as default};
